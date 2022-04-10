@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gracelewiss
 - 👀 I’m interested in python
-- 🌱 I’m currently learning c/java/python
-- 💞️ I’m looking to collaborate on java/python
+- 🌱 I’m currently learning java/python/dart
+- 💞️ I’m looking to collaborate on python
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/gracelewiss)
 
 <!---
